@@ -12,7 +12,7 @@ export default{
       this.nama = "daffa"
     },
     async ambildata(){
-      const response = await fetch("http://localhost:82/sensor3");
+      const response = await fetch("http://localhost:8989/sensor3");
       const data = await response.json();
       this.nama = data.sensor3
       console.log(data)
