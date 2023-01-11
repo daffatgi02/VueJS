@@ -1,23 +1,19 @@
-# aplikasiku connect with node js
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Belajar VUE JS Frontend RestFUllAPI</h2>
 
-## Customize configuration
+<!-- ## 👋 &nbsp;Belajar VUE JS Frontend RestFUllAPI-->
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+### 👨🏻‍💻 &nbsp;Profil
+```
+Dosen Pembimbing      : Billy Montolalu, S.Kom., M.Kom
+Nama Mahasiswa        : Daffa Fakhuddin Arrozy
+Nomor Induk Mahasiswa : 1102200037
 ```
 
-### Compile and Hot-Reload for Development
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-```sh
-npm run dev
-```
+### 🛠 &nbsp;Built With
 
-### Compile and Minify for Production
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vue&perline=3)](https://skillicons.dev)
 
-```sh
-npm run build
-```
+
+
